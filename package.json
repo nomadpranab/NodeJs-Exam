@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nomadpranab/NodeJs-Exam/issues"
   },
-  "homepage": "https://github.com/nomadpranab/NodeJs-Exam#readme"
+  "homepage": "https://github.com/nomadpranab/NodeJs-Exam#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
