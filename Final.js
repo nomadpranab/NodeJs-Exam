@@ -1,5 +1,5 @@
 const { MongoClient } = require('mongodb');
-const mongoDbUri = 'mongodb+srv://pranab7015:<606146>@cluster0.ozgqjeo.mongodb.net/';
+const mongoDbUri = 'mongodb+srv://pranab7015:606146@cluster0.ozgqjeo.mongodb.net/';
 const mongoDbOptions = {
   useNewUrlParser: true,
   useUnifiedTopology: true,
