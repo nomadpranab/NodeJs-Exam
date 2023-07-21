@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Url_Shortner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomadpranab/NodeJs-Exam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomadpranab/NodeJs-Exam/issues"
+  },
+  "homepage": "https://github.com/nomadpranab/NodeJs-Exam#readme"
+}
